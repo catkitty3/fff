@@ -1,0 +1,27 @@
+{
+    "name": "Minecraft",
+    "author": "Us",
+    "source": "https://gitlab.com/enjoyingfoss/parlera-categories",
+    "license": "CC-BY-SA-4.0",
+    "emoji": "📽",
+    "bgColor": 4282275884,
+    "langCode": "en",
+    "questions": [
+        "Pigelin Brute",
+        "Armadillo",
+        "Piglen",
+        "Pig",
+        "Chicken",
+        "Blaze",
+        "Zombie",
+        "Skeleton",
+        "Spider",
+        "Enderman",
+        "Endermite",
+        "SilverFish",
+        "Shulker",
+        "Ender Dragon",
+        "Memento"
+        
+    ]
+}
